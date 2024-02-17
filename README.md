@@ -17,3 +17,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 9.13_next2
 - 10.2_test1
 - 10.2_test2
+- 10.2_rc1
