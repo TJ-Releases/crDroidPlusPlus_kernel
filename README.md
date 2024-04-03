@@ -22,3 +22,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 9.14_test1
 - 10.2_next2
 - 10.2_next3
+- 10.2_next4
