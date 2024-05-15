@@ -31,3 +31,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 10.4_test1
 - 10.4_test2
 - 10.4_release
+- 10.5_test1
