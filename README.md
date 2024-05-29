@@ -36,3 +36,5 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 9.17_test1
 - 9.17_rc1
 - 10.5_rc1
+- 9.17_rc2 - actually just renamed the same file as rc1, because kernel didn't change at all.
+- 10.5_rc2 - actually just renamed the same file as rc1, because kernel didn't change at all.
