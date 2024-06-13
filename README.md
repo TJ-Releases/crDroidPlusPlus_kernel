@@ -40,3 +40,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 10.5_rc2 - actually just renamed the same file as rc1, because kernel didn't change at all.
 - 9.17_rc3
 - 10.5_rc3
+- 10.5_rc4 - ugh, whatever, should've stayed on test builds I guess
