@@ -41,3 +41,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 9.17_rc3
 - 10.5_rc3
 - 10.5_rc4 - ugh, whatever, should've stayed on test builds I guess
+- 10.5_rc5
