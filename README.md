@@ -53,3 +53,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 10.6_test6
 - 10.6_test7
 - 10.6_release
+- 10.6_next2 - next1 had no kernel changes, used 10.6_release zips
