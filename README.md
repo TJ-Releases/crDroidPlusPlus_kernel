@@ -59,3 +59,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - ~~10.7_test3~~ 10.7test4 (same file, no changes in kernel, just updating release tag to match ROM builds)
 - 10.7_release
 - 10.8_test1
+- 10.8_test2
