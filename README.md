@@ -69,3 +69,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 10.9_release
 - 11.0-BETA_test1
 - 11.0-BETA_test2
+- 10.10_test1
