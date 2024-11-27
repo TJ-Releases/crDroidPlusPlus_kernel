@@ -71,3 +71,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 11.0-BETA_test2
 - 10.10_test1
 - 10.10_test2
+- 11.0-BETA_test3
