@@ -82,3 +82,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 10.12_release
 - 11.2_test1
 - 11.2_test2
+- 11.2_test3
