@@ -86,3 +86,4 @@ That said, you're already running a custom ROM on a device with unlocked bootloa
 - 10.13_next1
 - 11.3-BETA_test1
 - 11.3-BETA_test2
+- 10.13_release
